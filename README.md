@@ -5,6 +5,7 @@
 Fixed cell.
 
 ![process](https://github.com/ytyaru/LibreOffice.Calc.FreezeCells.20201006082242/raw/master/doc/process.png?raw=true)
+![result](https://github.com/ytyaru/LibreOffice.Calc.FreezeCells.20201006082242/raw/master/doc/result.png?raw=true)
 
 # Requirement
 
